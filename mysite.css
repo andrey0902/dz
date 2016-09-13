@@ -1,0 +1,74 @@
+.carkas{
+	width:940px;
+	margin: 0px auto;
+	background-color:rgba(226, 212, 212, 0.58);
+	border-radius:20px;
+}
+.new{
+	text-align: center;
+	border-right:  1px solid black;
+	border-bottom: 1px solid black;
+	width: 250px;
+	float:left;
+	margin-right: 15px;
+}
+.bod{
+	margin-left:500px;
+}
+ul{
+	text-align:left !important;
+}
+.par{
+	margin:5px 20px 10px 20px;
+}
+.clear{
+	clear:both;
+}
+.imge{
+	float:left;
+	margin: 20px 25px 20px 4px;
+}
+
+.footer{
+	padding: 10px;
+	border-bottom: 1px dashed black;
+		border-radius:20px;
+}
+a:hover{
+	color:red;
+}
+.copi{
+	margin-left:600px;
+}
+
+.coment{
+	width: 97%;
+	margin: 10px auto;
+	border-radius:20px;
+	padding-left:15px;
+	padding-top:8px;
+	border: 1px solid black;
+}
+.img-coment{
+	margin-right: 20px;
+}
+.form{
+	padding:5px;
+	height:120px;
+	width:97%;
+	margin: 10px auto;
+	border-radius:10px;
+	border: 1px solid black;
+	position:relative;
+}
+.t-area{
+	height:90px;
+	margin: 5px auto;
+	width:85%;
+	position:relative;
+	}
+.bottom{
+	position: absolute;
+	top:84px;
+	right: 35px;
+}
